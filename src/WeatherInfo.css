@@ -1,0 +1,59 @@
+.WeatherInfo h1 {
+  padding-bottom: 10px;
+}
+.WeatherInfo .cityH1 {
+  font-weight: 800;
+}
+.WeatherInfo .countryH1 {
+  font-size: 25px;
+}
+.WeatherInfo .mainTemp {
+  font-size: 70px;
+  position: relative;
+  bottom: 10px;
+  padding-right: 0;
+}
+.WeatherInfo .celsius {
+  position: relative;
+  bottom: 47px;
+  font-size: 20px;
+}
+
+.WeatherInfo .mainInfo {
+  padding-top: 6px;
+  padding-left: 10px;
+  font-size: 16px;
+  position: relative;
+  left: 20px;
+}
+.Weather .mainDescription {
+  font-size: 20px;
+}
+.mainDescription::after{
+  content: "";
+  display: block;
+  background-color: white;
+  width: 10rem;
+  height: 2px;
+  position: inherit;
+
+
+}
+.WeatherInfo #textRight {
+  text-align: right;
+}
+.col-6 {
+  flex: 0 0 auto;
+  width: 32%;
+}
+#textLeft li{
+  margin: 0.3rem;
+}
+#textRight li{
+  
+  margin: 0.3rem;
+
+}
+.mainInfo li{
+  display: inline-block;
+} 
