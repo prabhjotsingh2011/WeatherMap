@@ -8,8 +8,7 @@ It is a Simple React weather application which uses the openWeathermap API to ge
 ### DEMO
 
  
-
-https://prabhjotsingh2011.github.io/React-Accordion/
+https://prabhjotsingh2011.github.io/WeatherMap/
 
 
 
